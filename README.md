@@ -21,7 +21,7 @@ A financial tool designed to calculate the liquidity impact of optimizing paymen
 - **Primary T-Code:** FBL1N.
 
 ### 3. Contract Compliance Analysis
-Identifies "Maverick Buying" patterns—purchases made outside of negotiated master agreements. Quantifies financial leakage and enforces organizational discipline.
+Identifies "Maverick Buying" patterns - purchases made outside of negotiated master agreements. Quantifies financial leakage and enforces organizational discipline.
 - **Business Impact:** Cost Reduction & Spend Transparency.
 - **Primary T-Codes:** ME3L, ME3N.
 
