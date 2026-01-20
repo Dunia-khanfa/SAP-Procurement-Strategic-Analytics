@@ -1,7 +1,5 @@
 # SAP PROCUREMENT STRATEGIC ANALYTICS HUB
 
-![Project Preview](preview.png)
-
 ## PROJECT OVERVIEW
 This portal is a professional decision-support system designed to showcase advanced capabilities in **SAP Materials Management (MM)** and **Supply Chain Analytics**. The project demonstrates how to transform operational ERP data into strategic business insights that drive ROI.
 
@@ -50,6 +48,9 @@ As an SAP Specialist, my goal is to bridge the gap between technical system exec
 
 ---
 *Created for the SAP Operations & Supply Chain community.*
+
+
+
 
 
 
