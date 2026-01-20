@@ -4,7 +4,7 @@
 This portal is a professional decision-support system designed to showcase advanced capabilities in **SAP Materials Management (MM)** and **Supply Chain Analytics**. The project demonstrates how to transform operational ERP data into strategic business insights that drive ROI.
 
 ## LIVE APPLICATION
-**🔗 [Click Here to View the Interactive Portal](https://your-github-username.github.io/your-repo-name/)**
+**🔗 [Click Here to View the Interactive Portal](https://dunia-khanfa.github.io/SAP-Procurement-Strategic-Analytics/)**
 
 ---
 
