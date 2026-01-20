@@ -55,7 +55,7 @@ As an SAP Specialist, my goal is to bridge the gap between technical system exec
 
 
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/acd20157-3607-4771-90f9-894c03b9b6a9" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/acd20157-3607-4771-90f9-894c03b9b6a9" />
 
 
 
